@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola a todos 👋
+-🌱 Actualmente estoy aprendiendo Java
+-⚡ Estamos desarrollando WakeUp!
+-💬 Preguntame sobre el trabajo integrador de algoritmos UNAJ
+![Uploading github_snake.svg…]()
 
 <!--
 **LovisottoSantiago/LovisottoSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
