@@ -1,5 +1,5 @@
 ## Hola a todos 👋
-  - 🌱 Actualmente estoy aprendiendo Java
+  - :coffee: Actualmente estoy aprendiendo Java
   - ⚡ Estamos desarrollando WakeUp!
   - 💬 Preguntame sobre el TP Algoritmos UNAJ
 ![github_snake](https://github.com/LovisottoSantiago/LovisottoSantiago/assets/116739181/2e8e3652-1e13-4ca2-b3df-ebfd4c385958)
