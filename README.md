@@ -2,8 +2,7 @@
   - :coffee: Actualmente estoy aprendiendo Java
   - ⚡ Estamos desarrollando WakeUp!
   - 💬 Preguntame sobre el TP Algoritmos UNAJ
-![github_snake](https://github.com/LovisottoSantiago/LovisottoSantiago/assets/116739181/2e8e3652-1e13-4ca2-b3df-ebfd4c385958)
-<a href="https://wakatime.com/badge/github/LovisottoSantiago/Java-Repo"><img src="https://wakatime.com/badge/github/LovisottoSantiago/Java-Repo.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2"><img src="https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg" alt="Total time coded since Jul 8 2024" /></a>
 
 <!--
 **LovisottoSantiago/LovisottoSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
