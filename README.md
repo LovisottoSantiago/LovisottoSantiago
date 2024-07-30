@@ -1,6 +1,6 @@
 ## Hola a todos 👋
   - :coffee: Actualmente estoy aprendiendo Java
-  - ⚡ Estamos desarrollando WakeUp!
+  - :computer: Desarrollando SayIt! 
   - 💬 Preguntame sobre el TP Algoritmos UNAJ
    
 <a href="https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2"><img src="https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg" alt="Total time coded since Jul 8 2024" /></a>
