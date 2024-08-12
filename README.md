@@ -1,6 +1,7 @@
 ## Hola a todos 👋
   - Actualmente estoy aprendiendo Java :coffee: 
-  - Desarrollando SayIt! :computer: 
+  - Mejorando SayIt! :computer:
+  - Desarrollando TheStoicPath! ⚡
   - Preguntame sobre el TP Algoritmos UNAJ 💬
    
 [![wakatime](https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg)](https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2)
