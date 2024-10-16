@@ -1,8 +1,5 @@
 ## Hola a todos 👋
-  - Actualmente estoy aprendiendo Java :coffee: 
-  - Mejorando SayIt! :computer:
-  - Desarrollando TheStoicPath! ⚡
-  - Preguntame sobre el TP Algoritmos UNAJ 💬
+
    
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LovisottoSantiago)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovisottoSantiago"/>
