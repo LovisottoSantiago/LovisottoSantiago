@@ -1,7 +1,6 @@
 ## Hola a todos 👋
 
    
-![Lovisotto Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=LovisottoSantiago&hide=contribs,prs)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LovisottoSantiago)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovisottoSantiago"/>
 <br>
