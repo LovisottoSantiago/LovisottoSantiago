@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/802f56e9-8341-49d9-a3ae-012515cd55ec" alt="Tu Imagen Negra" />
+      <img src="https://streak-stats.demolab.com/?user=LovisottoSantiago" alt="GitHub Streak" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovisottoSantiago" alt="Most Used Languages" />
