@@ -1,5 +1,5 @@
 ## Hola a todos 👋
-   ![image](https://github.com/user-attachments/assets/e61776ac-bdb0-491e-af66-4c2f8d27ea7b)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LovisottoSantiago)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovisottoSantiago"/>
