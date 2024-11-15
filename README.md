@@ -1,8 +1,8 @@
 ## Hola a todos 👋
 
-<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LovisottoSantiago)
-</div>
+
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=LovisottoSantiago&theme=monokai&date_format=j%20M%5B%20Y%5D&type=svg)](https://git.io/streak-stats)
 <br>
