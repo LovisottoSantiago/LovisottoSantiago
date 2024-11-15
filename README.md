@@ -1,4 +1,4 @@
-## Hola a todos 👋
+## Hola a todos! 🧉👋
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LovisottoSantiago)
 <br>
