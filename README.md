@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  • ☕ Tecnologías: C#, ASP.NET Core, MySQL, Java.
+  • ☕ <strong>Tecnologías:</strong> C#, ASP.NET Core, MySQL, Java.
 </p>
 
 <p align="left">
-  • 💼 Mi último proyecto: <a href="https://dotdle.runasp.net/">Dotdle.</a>
+  • 💼 <strong>Mi último proyecto:</strong> <a href="https://dotdle.runasp.net/">Dotdle.</a>
 </p>
 
 <p align="left">
-  • 💌 Mi contacto: <a href="mailto:tu-correo@gmail.com">backendlovi@gmail.com.</a>
+  • 💌 <strong>Mi contacto:</strong> <a href="mailto:tu-correo@gmail.com">backendlovi@gmail.com.</a>
 </p>
 
   <!-- Contacto
