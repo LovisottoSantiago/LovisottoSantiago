@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  • ☕ <strong>Tecnologías:</strong> C#, ASP.NET Core, MySQL, Java.
+  • ☕ <strong>Tecnologías:</strong> Java, Springboot, PostgreSQL.
 </p>
 
 <p align="left">
