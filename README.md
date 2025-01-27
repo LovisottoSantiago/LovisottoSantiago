@@ -46,11 +46,7 @@
       </td>
       <td>
         <br />
-        <img
-          align="left"
-          src="https://streak-stats.demolab.com?user=LovisottoSantiago&theme=github-dark-blue&border_radius=20&date_format=j%20M%5B%20Y%5D&type=svg"
-          alt="GitHub Streak"
-        />
+        <img src="https://streak-stats.demolab.com?user=LovisottoSantiago&theme=telegram-gradient&hide_border=true&card_width=350&card_height=225&hide_total_contributions=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
