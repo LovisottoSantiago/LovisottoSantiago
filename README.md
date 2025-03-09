@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  • 💼 <strong>Mi último proyecto:</strong> <a href="https://dotdle.runasp.net/">Dotdle.</a>
+  • 💼 <strong>Mi último proyecto:</strong> <a href="[https://dotdle.runasp.net/](https://github.com/LovisottoSantiago/Stock-System)">Sistema de Stock y Facturación.</a>
 </p>
 
 <p align="left">
