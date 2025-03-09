@@ -10,8 +10,9 @@
 </p>
 
 <p align="left">
-  • 💼 <strong>Mi último proyecto:</strong> <a href="[https://dotdle.runasp.net/](https://github.com/LovisottoSantiago/Stock-System)">Sistema de Stock y Facturación.</a>
+  • 💼 <strong>Mi último proyecto:</strong> <a href="https://github.com/LovisottoSantiago/Stock-System">Sistema de stock y facturación para comercios.</a>
 </p>
+
 
 <p align="left">
   • 💌 <strong>Mi contacto:</strong> <a href="mailto:tu-correo@gmail.com">backendlovi@gmail.com.</a>
