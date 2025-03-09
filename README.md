@@ -28,28 +28,9 @@
   </a>  
 </p> -->
 
-
 [![Wakatime Badge](https://wakatime.com/badge/user/2c637c62-33b6-466c-8ef4-ec0e42de03a2.svg)](https://wakatime.com/@2c637c62-33b6-466c-8ef4-ec0e42de03a2)
 
 <br />
 <hr />
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          align="left"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovisottoSantiago"
-          alt="Top Languages"
-        />
-      </td>
-      <td>
-        <br />
-        <img src="https://streak-stats.demolab.com?user=LovisottoSantiago&theme=telegram-gradient&hide_border=true&card_width=350&card_height=225&hide_total_contributions=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-</div>
 
