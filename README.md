@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  • 💼 <strong>Mi </strong> <a href="https://portfolio-beta-olive-73.vercel.app/">portfolio.</a>
+  • 💼 <strong><a href="https://portfolio-beta-olive-73.vercel.app/">Mi portfolio</a>.</strong>
 </p>
 
 <p align="left">
