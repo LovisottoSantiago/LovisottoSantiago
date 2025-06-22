@@ -10,12 +10,11 @@
 </p>
 
 <p align="left">
-  • 💼 <strong>Mi último proyecto:</strong> <a href="https://github.com/LovisottoSantiago/Stock-System">Sistema de stock y facturación para comercios.</a>
+  • 💼 <strong>Mi </strong> <a href="https://portfolio-beta-olive-73.vercel.app/">portfolio.</a>
 </p>
 
-
 <p align="left">
-  • 💌 <strong>Mi contacto:</strong> <a href="mailto:tu-correo@gmail.com">backendlovi@gmail.com.</a>
+  • 💌 <strong>Mi contacto:</strong> <a href="mailto:tu-correo@gmail.com">santiagolovisotto@gmail.com.</a>
 </p>
 
   <!-- Contacto
