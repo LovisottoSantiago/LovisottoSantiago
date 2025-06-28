@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left"> 
-  Estudiante de <strong>Ingeniería Informática</strong> cursando el tercer año. Me apasiona el desarrollo backend y tengo un interés especial en Java, busco seguir aprendiendo y creciendo en el campo de la tecnología.
+  Estudiante de <strong>Ingeniería Informática</strong> cursando el tercer año. Me apasiona el desarrollo backend y tengo un interés especial en .Net, busco seguir aprendiendo y creciendo en el campo de la tecnología.
 </p>
 
 <p align="left">
